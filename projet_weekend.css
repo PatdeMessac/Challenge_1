@@ -1,0 +1,33 @@
+/*projet_weekend.css*/
+html
+{ 
+background:url(images/monimage.jpg) no-repeat center top; 
+background-size: cover;
+}
+
+
+h1
+{
+	background-color :#e8e8e8 ;
+	color :#cfa205 ;
+	text-align : center;
+	font-size : 133px;
+	/*width : ;
+	height: ;*/
+}
+
+body {
+    	background-image: url("images/bg.jpg");
+	width : 1400;
+	height : 1010;
+ 	/* background-color: #cccccc;**/
+}
+
+table
+{
+	text-align : center;
+	font-size : 25px;
+}
+
+
+
